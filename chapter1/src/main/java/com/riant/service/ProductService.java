@@ -1,4 +1,4 @@
-package com.riant;
+package com.riant.service;
 
 /**
  * @Classname ProductService
